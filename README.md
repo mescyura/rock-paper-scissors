@@ -1,3 +1,3 @@
-# Rocl Paper Scissors
+# Rock Paper Scissors
 
 a simple rock paper scissors game with computer
